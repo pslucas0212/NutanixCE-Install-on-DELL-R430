@@ -13,3 +13,4 @@ My installation notes update on 15 May 2023
 
 ### Apendix
 - [How to Install Community Edition Episode 1 | Nutanix University](https://www.youtube.com/watch?v=7EdSXb_oKiA)
+- [Installing Nutanix Community Edition 2.0 on Bare Metal — Single Node Cluster](https://craig-robinson.medium.com/installing-nutanix-community-edition-2-0-on-bare-metal-single-node-cluster-12589d00eaf1)
