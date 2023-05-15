@@ -3,6 +3,7 @@
 
 My installation notes update on 15 May 2023
 
+- Update your server.  For the Dell R430 see this article - [Initial Setup — Bare Metal Servers](https://craig-robinson.medium.com/initial-setup-bare-metal-servers-6a1ccc4a1de2) - Note the server needs lots of reboots.  :)
 - Creat Nutanix account on [https://next.nutanix.com](https://next.nutanix.com)
 - Login and download the Installer ISO and the VirtIO ISO
 - Download Rufus from [https://rufus.ie](https://rufus.ie)
